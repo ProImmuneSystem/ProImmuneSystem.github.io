@@ -1,4 +1,5 @@
 name: Refresh homepage
+# Refresh after the news site is updated.
 on:
   push:
     branches: [main]
